@@ -4,6 +4,15 @@ Um chatbot interativo onde **você é o principal suspeito** e Sherlock Holmes �
 
 ---
 
+## 🖼️ Visual do Projeto
+
+### 🔎👤 Fluxograma do Interrogatório e Persona do Sherlock Holmes 
+Veja como o sistema de perguntas e pontuação leva a diferentes finais possíveis e a versão visual que representa o seu interrogador digital — direto de Baker Street::
+
+<img width="6606" alt="Fluxograma e a persona do Sherlock Holmes" src="https://github.com/user-attachments/assets/aa889679-a35d-49f2-9687-71ae0cf6839e" />
+
+---
+
 ## 🔍 Sobre o Projeto
 
 O **Chatbot Sherlock Holmes** simula um interrogatório investigativo com o lendário detetive de Baker Street. Mas há um detalhe: **o crime já foi cometido, e todas as pistas apontam para você**.
