@@ -56,3 +56,6 @@ Basta rodar o script e começar a responder. Boa sorte... você vai precisar.
 
 "Quando se elimina o impossível, o que sobra, por mais improvável que seja, deve ser a verdade."
 — Sherlock Holmes
+
+Aqui está o código no collab:
+https://colab.research.google.com/drive/1Tq8_Y-do2VfQ9Ex2cRepSgkx9cRLybl-?usp=sharing
